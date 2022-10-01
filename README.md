@@ -27,20 +27,21 @@ This dataset had well over 3 million recorded reviews.  To filter down this data
 - Percent of helpful votes to total votes equal or greater than 50%
 
 This reduced the total number of reviews in the dataset to 50.7k, allowing us to answer specific questions.
-1. How many Vine reviews and non-Vine reviews were there?
+
+### 1. How many Vine reviews and non-Vine reviews were there?
 - Vine members made up only 2.1% (1080) of the reviews, and the remaining 97.9% were from non-vine members (49,659)
-- 
+
 <img width="1000" alt="ratings total" src="https://user-images.githubusercontent.com/104927745/193429235-acf37175-7a04-46ad-8d7e-92d72b58315c.PNG">
 
 <img width="1000" alt="non paid" src="https://user-images.githubusercontent.com/104927745/193429233-c000217e-4a79-43e4-8c5b-eb233f366774.PNG">
 
 <img width="1000" alt="percent votes" src="https://user-images.githubusercontent.com/104927745/193429234-908566bd-beb3-4c1d-877c-90cf0b9ec301.PNG">
 
-2. How many Vine reviews were 5 stars?  How many non-vine reviews were 5 stars?
+### 2. How many Vine reviews were 5 stars?  How many non-vine reviews were 5 stars?
 - Vine members gave 454 out of 1,080 reviews with a 5 star rating
 - While non-vine members gave 23,034 out of 49,659 a 5 star rating
 
-3. What percentage of Vine reviews were 5 stars?  What percentage of non-vine reviews were 5 stars?
+### 3. What percentage of Vine reviews were 5 stars?  What percentage of non-vine reviews were 5 stars?
 - 42% of Vine member reviews were rated as 5 stars
 - Whereas 46.4% of the reviews for non-vine members were rated as 5 stars
 
