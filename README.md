@@ -22,5 +22,12 @@ members in your dataset. Then, you’ll write a summary of the analysis for Jenn
 
 ## Results
 
+<img width="1000" alt="non paid" src="https://user-images.githubusercontent.com/104927745/193429233-c000217e-4a79-43e4-8c5b-eb233f366774.PNG">
+
+<img width="1000" alt="percent votes" src="https://user-images.githubusercontent.com/104927745/193429234-908566bd-beb3-4c1d-877c-90cf0b9ec301.PNG">
+
+<img width="1000" alt="ratings total" src="https://user-images.githubusercontent.com/104927745/193429235-acf37175-7a04-46ad-8d7e-92d72b58315c.PNG">
+
+<img width="1000" alt="vine members" src="https://user-images.githubusercontent.com/104927745/193429236-ca68edcd-cce3-4cfb-b585-76470ec60f71.PNG">
 
 ## Summary
